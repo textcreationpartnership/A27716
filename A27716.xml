@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange and wonderful news from the lords in the Tovver, or, A dialogue between them and my Lord Staffords ghost</title>
+            <author>W. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27716</idno>
+            <idno type="STC">Wing B231</idno>
+            <idno type="STC">ESTC R2640</idno>
+            <idno type="EEBO-CITATION">13174414</idno>
+            <idno type="OCLC">ocm 13174414</idno>
+            <idno type="VID">98339</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27716)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98339)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 445:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange and wonderful news from the lords in the Tovver, or, A dialogue between them and my Lord Staffords ghost</title>
+                  <author>W. B.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: W. B.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stafford, William Howard, --  Viscount, 1614-1680.</term>
+               <term>Popish Plot, 1678 --  Sources.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:98339:1" rendition="simple:additions"/>
+            <head>Strange and wonderful News, from THE LORDS IN THE TOWER, OR A DIALOGUE Between them, and my <hi>Lord Staffords Ghoſt.</hi>
+            </head>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>HEll! Are you playing ſtill at the old Game? can nei<g ref="char:EOLhyphen"/>ther <hi>Popiſh</hi> Plot, <hi>Presbiterian</hi> Plot, nor all your Inte<g ref="char:EOLhyphen"/>reſt amongſt <hi>Phanaticks, Quakers,</hi> and the reſt of the <hi>Enthuſiaſtical</hi> Tribe, cut a Sham for your enlarge<g ref="char:EOLhyphen"/>ment by Purgatory; What would you give to be ſo active as I am, from my purgation Chambers to my antient <hi>Tower-Quarters,</hi> hence to my Ghoſtlike Father at <hi>Rome</hi> in the twinkling of a ſtar, here is Liber<g ref="char:EOLhyphen"/>ty without a Paradox.</p>
+            </sp>
+            <sp>
+               <speaker>Lord B.</speaker>
+               <p>Let's defer our Game till another time my Lord, pox on't we are turn'd back to eighteen, but thank my Stars, we have the Tip and a Go for't; upon my Honour here is <hi>Stafford the Proto-Martyr</hi> Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Lord. P.</speaker>
+               <p>Where? Where? Let me be gon by the Maſs I cannot a<g ref="char:EOLhyphen"/>bide to ſee him without his Head, no, though he glorioufly conferr'd Honour by it; It puts me in mind of creating Squires too, Hell take ſuch ſquires, I wiſh there never had been, nor ever will be any more of them, ſuch as holds your Honours in <hi>Capite</hi> with the ſubject, as we do our Lands of the King, Alas! ſick, I ſhall ſpue a Plot out preſently.</p>
+            </sp>
+            <sp>
+               <speaker>Lord A.</speaker>
+               <p>Have Courage my Lord, do not let his Head ſtick in your Stomack, and perhaps it were better there too, than upon his ſhoul<g ref="char:EOLhyphen"/>ders; it would not then be ſo apt to tell Tales; bubble Divines, or con<g ref="char:EOLhyphen"/>feſs the Plot to the Houſe of <hi>Commons,</hi> and after deny it briskly; but by
+<pb n="2" facs="tcp:98339:2"/>
+                  <hi>St. Colly</hi> it was well he did the latter, otherwiſe we might have all ſhit and ſpu'd Plots, and had never an one to hold our Heads, like our infallible Maſter. at <hi>Rome,</hi> as is lively repreſently by the Ruſty, Muſty, Tuſty Monky Pacquet Scrib<g ref="char:EOLhyphen"/>ler, in <hi>Copper Plates Alamode</hi> Proteſtant, as the Godly Rout calls them.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Hold a while my Lord, you named a hard word juſt now, which will cramp all our <hi>Mediterranian</hi> Inhabitants, I will vaniſh to <hi>Rome, Preſto, begon</hi> for a Diſpenſation to have leave to enquire if there be any ſort of thoſe Cattel amongſt them, Hey <hi>Jingo</hi> I am here again! I will <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow te<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> you as much Truth, as a Children that is unborn, I will were thoſe advantage I might take <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f this, and the laſt Diſpenſation I had upon the Hill; I never heard of any there, but Catholick Lords, Jeſuites, Prieſts; and Secretaries, and may all have their <hi>Ha<g ref="char:EOLhyphen"/>beas Animas</hi> of his Holineſs when he pleaſes, only paying their Fees, we have alſo Presbiter<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ans, Quakers, and Dippers, but they pile them up as they do Fag<g ref="char:EOLhyphen"/>gots, and dare not give them overmuch Rope, leſt they Covenant to hang them<g ref="char:EOLhyphen"/>ſelves; Rebell, or ſome ſuch pretty thing, and after ſw<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>are, verily they believe it to be all a Popiſh Plot, ſometimes <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e make fine Diverſion with them, make them turn the Pig, and run round like a Cat with a Feather tied to her Tail; thus they make them as ſerviceable there, as you do here; before I was removed by an <hi>Habeas Carkas,</hi> I heard of nought but <hi>Proteſtant</hi> Petitioner: Pro. Abhorror; there is alſo Pro. <hi>Mahumedans:</hi> Pro. <hi>Athieſts,</hi> not forgetting the Pro. <hi>Alias</hi> M. Horſe, which two Epithets are Learnedly averr'd to be <hi>Termini Convertibiles: Vide alſaps</hi> miſchiefs of impoſition; iſt: of the firſt, the Pro. Petitioners proteſts againſt Paraliament, who by the late Petitions diſſolved them; the Second proteſts againſt the former and are conſequently for Parliaments, not when they them<g ref="char:EOLhyphen"/>ſelves, but when his Majeſty ſhall think fit to revoke them; <hi>Alias</hi> they are call'd <hi>Papiſts</hi> in Maſquerade by the former, and are out ball'd by them with their Iron Lungs and Throats of Braſs; they look like a Wench in Term time, with their Foreheads bound with black and white, the third proteſts againſt the Doctrine of Chriſt, whoſe Vicegerent the firſt againſt greater Light then ever <hi>Jews</hi> were Ma<g ref="char:EOLhyphen"/>ſters of a Traiterouſly, Maliciouſly, and Fanatickly Murdered; the fourth proteſts againſt every thing, but pleaſure; theſe are the brood of the Firſt, <hi>Imprimis,</hi> they learn'd to ſpeak evil of Dignities, <hi>Poſtea,</hi> to averr they are Politick Cheats; item, obſerving that the long Cloaks and little Bands were divided amongſt themſelves, and were together by the Ears, they began to form an Argument: of ſo great a variety of Religions 'tis impoſſible they ſhould be all true, therefore 'tis beſt to be of none at all, becauſe then it follows we cannot be of a falſe one.</p>
+            </sp>
+            <sp>
+               <speaker>Lord <hi>B.</hi>
+               </speaker>
+               <p>My Lord, you are mighty ingenious, your underſtanding ſeems to be purg'd and refined, I ſuppoſe by your diſcourſe you underſtand as well whats to come, as what is paſt; and that not as we underſtand things ſucceſſively and by degrees, as the Learned ſay, but by one ſingle Act of the Mind; therefore, what do you think will be come of the Parliament, if they ſit at <hi>Oxford,</hi> whether the late Petition by our Peers to the contrary, be not an Abhorrence of his Majeſties Royal Purpoſes, and Declaration, if ſo, whether it be more Criminal to be an Abhor<g ref="char:EOLhyphen"/>ror of the Subjects Petitions, or his Majeſties Commands: Item, whether <hi>Eliz. Freeman</hi>'s Apparition was the ſpawn of a <hi>Presbyterian</hi> or a <hi>Popiſh-Plot,</hi> Traiterouſ<g ref="char:EOLhyphen"/>ly, Maliciouſly and Falſly, hatched and nurs'd and deſigned for the ſubverting the <hi>Proteſtant</hi> Religion, and the convening the Parliament at <hi>Oxford;</hi> if either of them, whether ſhe or the ſaid Apparition, both, or either of them, may not upon the grant of a general Pardon, for all Burglaries, Fellonies, and Out-lawries for Fellonies, give in the Depoſitions upon Oath, and whether the ſaid Depoſitions, let them be ſence or non-ſence, will not be of as much force, as if the foreſaid <hi>Eliz. Freeman,</hi> and her Co-witneſs have or ſhall take thier degrees at <hi>Salamanca,</hi> and did actually obtain a Sallary never to be retrench'd; Let us hear your reſolves my Lord. Hah! What is he vaniſh'd? Let us ſatisfie our ſelves, and retire to our reſpective Lodgings till to morrow Morning; ſo good Night:</p>
+            </sp>
+            <stage>Exeunt W. E.</stage>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>T. B.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
